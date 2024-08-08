@@ -11,7 +11,7 @@ CREATE DATABASE sales_management;
 Clone o repositório:
 
 ```bash
-git clone https://github.com/juriaCardozo/sales-crud-test.git
+git clone https://github.com/juriaCardozo/sales-api.git
 ```
 
 Execute o comando para gerar o .war da aplicação:
