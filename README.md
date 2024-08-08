@@ -12,8 +12,6 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/juriaCardozo/sales-crud-test.git
-cd .\sales-crud-application-server\
-cd .\sales-crud-application-server\
 ```
 
 Execute o comando para gerar o .war da aplicação:
